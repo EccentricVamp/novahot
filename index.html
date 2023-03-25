@@ -1,0 +1,66 @@
+<!doctype html>
+
+<html lang="en-US">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Novahot</title>
+</head>
+
+<body>
+    <script type="importmap">
+        {
+            "imports": {
+                "preact": "https://esm.sh/preact",
+                "twind": "https://cdn.skypack.dev/twind"
+            }
+        }
+    </script>
+    <script type="module">
+        import { h, render } from 'preact'
+        import { tw } from 'twind'
+        import { Attributes } from './index.js'
+
+        const header = h(
+            'header',
+            { class: tw`border-b` },
+            h(
+                'h1',
+                { class: tw`container mx-auto text-3xl` },
+                'Novahot'
+            )
+        )
+
+        const attributes = new Attributes(0, 0, 0, 0, 0, 0, 0, 0, 0);
+        const attributeList = []
+        for (const key in attributes) {
+            attributeList.push(
+                h(
+                    'div',
+                    { class: tw`border rounded flex flex-col items-center my-3` },
+                    h('div', null, key),
+                    h(
+                        'div',
+                        { class: tw`text-5xl` },
+                        attributes[key]
+                    )
+                )
+            )
+        }
+
+        const main = h(
+            'main',
+            { class: tw`container mx-auto my-3` },
+            h(
+                'div',
+                null,
+                attributeList
+            )
+        )
+
+        render([header, main], document.body)
+    </script>
+</body>
+
+</html>
