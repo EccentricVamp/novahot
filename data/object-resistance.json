@@ -1,0 +1,22 @@
+[
+    {
+        "category": "Natural Objects",
+        "example": "Trees, Soil, Unprocessed Water",
+        "threshold": "1"
+    },
+    {
+        "category": "Manufactured Low-Tech Objects and Materials",
+        "example": "Brick, Leather, Simple Plastics",
+        "threshold": "2"
+    },
+    {
+        "category": "Manufactured High-Tech Objects and Materials",
+        "example": "Advanced Plastics, Alloys, Electronic Equipment, Sensors",
+        "threshold": "3"
+    },
+    {
+        "category": "Highly Processed Objects",
+        "example": "Computers, Complex Toxic Wastes, Drones, Vehicles",
+        "threshold": "5+"
+    }
+]

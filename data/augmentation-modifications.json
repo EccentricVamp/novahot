@@ -1,0 +1,178 @@
+[
+    {
+        "type": "cyberware",
+        "category": "Cosmetic Cyberware Modifications",
+        "name": "Cybergland",
+        "essence": "0.1",
+        "capacity": "[1]",
+        "availability": "+4",
+        "cost": "500¥ + 100¥ per extra dose (max. 6)*",
+        "page": "33",
+        "book": "Aug"
+    },
+    {
+        "type": "cyberware",
+        "category": "Cosmetic Cyberware Modifications",
+        "name": "Cyberlimb Casemod Full Arm/Leg",
+        "essence": "—",
+        "capacity": "—",
+        "availability": "+2",
+        "cost": "+400¥",
+        "page": "33",
+        "book": "Aug"
+    },
+    {
+        "type": "cyberware",
+        "category": "Cosmetic Cyberware Modifications",
+        "name": "Cyberlimb Casemod Lower Arm/Leg",
+        "essence": "—",
+        "capacity": "—",
+        "availability": "+2",
+        "cost": "+300¥",
+        "page": "33",
+        "book": "Aug"
+    },
+    {
+        "type": "cyberware",
+        "category": "Cosmetic Cyberware Modifications",
+        "name": "Cyberlimb Casemod Hand/Foot",
+        "essence": "—",
+        "capacity": "—",
+        "availability": "+3",
+        "cost": "+250¥",
+        "page": "33",
+        "book": "Aug"
+    },
+    {
+        "type": "cyberware",
+        "category": "Cosmetic Cyberware Modifications",
+        "name": "Cyberlimb Casemod Torso",
+        "essence": "—",
+        "capacity": "—",
+        "availability": "+4",
+        "cost": "+1,200¥",
+        "page": "33",
+        "book": "Aug"
+    },
+    {
+        "type": "cyberware",
+        "category": "Cosmetic Cyberware Modifications",
+        "name": "Cyberlimb Casemod Skull",
+        "essence": "—",
+        "capacity": "—",
+        "availability": "+4",
+        "cost": "+1,000¥",
+        "page": "33",
+        "book": "Aug"
+    },
+    {
+        "type": "cyberware",
+        "category": "Cosmetic Cyberware Modifications",
+        "name": "Cyberlimb Casemod Engraved Datajack",
+        "essence": "—",
+        "capacity": "—",
+        "availability": "+2",
+        "cost": "+200¥",
+        "page": "34",
+        "book": "Aug"
+    },
+    {
+        "type": "cyberware",
+        "category": "Cosmetic Cyberware Modifications",
+        "name": "Eyemod",
+        "essence": "—",
+        "capacity": "—",
+        "availability": "+3",
+        "cost": "+500¥",
+        "page": "34",
+        "book": "Aug"
+    },
+    {
+        "type": "cyberware",
+        "category": "Cosmetic Cyberware Modifications",
+        "name": "Shaped Dermal Plating",
+        "essence": "—",
+        "capacity": "—",
+        "availability": "+5",
+        "cost": "+1,200¥",
+        "page": "34",
+        "book": "Aug"
+    },
+    {
+        "type": "cyberware",
+        "category": "Cosmetic Cyberware Modifications",
+        "name": "Wet Sheath",
+        "essence": "—",
+        "capacity": "—",
+        "availability": "+2",
+        "cost": "+1,300¥",
+        "page": "34",
+        "book": "Aug"
+    },
+    {
+        "type": "cyberware",
+        "category": "Dermal Sheath Modification",
+        "name": "Ruthenium Polymer Coating",
+        "essence": "—",
+        "capacity": "—",
+        "availability": "+2",
+        "cost": "+2,500¥",
+        "page": "40",
+        "book": "Aug"
+    },
+    {
+        "type": "cyberware",
+        "category": "Dermal Sheath Modification",
+        "name": "Chameleon Modification",
+        "essence": "+0.2",
+        "capacity": "—",
+        "availability": "+4R",
+        "cost": "+4,000¥",
+        "page": "40",
+        "book": "Aug"
+    },
+    {
+        "type": "cyberware",
+        "category": "Customized Cyberlimbs",
+        "name": "Each BOD, STR, or AGI point above 3",
+        "essence": "as cyberlimb",
+        "capacity": "as cyberlimb",
+        "availability": "+1",
+        "cost": "+1,500¥",
+        "page": "44",
+        "book": "Aug"
+    },
+    {
+        "type": "cyberware",
+        "category": "Bulk Modification",
+        "name": "Each Increased Capacity Point (Max. 4)",
+        "essence": "—",
+        "capacity": "+1",
+        "availability": "+1",
+        "cost": "+1,000¥",
+        "page": "44",
+        "book": "Aug"
+    },
+    {
+        "type": "cyberware",
+        "category": "Optimized Cyberlimb",
+        "name": "All models",
+        "essence": "per cyberlimb",
+        "capacity": "-2",
+        "availability": "+4",
+        "cost": "+5,000¥",
+        "page": "44",
+        "book": "Aug"
+    },
+    {
+        "type": "bioware",
+        "category": "False Front",
+        "name": "Mimic Option",
+        "essence": "",
+        "capacity": "",
+        "availability": "+4",
+        "cost": "+10,000¥",
+        "page": "69",
+        "book": "Aug"
+    }
+]

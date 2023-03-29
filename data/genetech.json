@@ -1,0 +1,432 @@
+[
+    {   
+        "category": "Genetic Restoration",
+        "name": "Léonization",
+        "time": "3 months+",
+        "essence": "—",
+        "availability": "12R",
+        "cost": "400,000¥",
+        "page": "88",
+        "book": "Aug"
+    },
+    {   
+        "category": "Genetic Restoration",
+        "name": "Life-span Expansion",
+        "time": "2 months",
+        "essence": "—",
+        "availability": "10R",
+        "cost": "250,000¥",
+        "page": "88",
+        "book": "Aug"
+    },
+    {   
+        "category": "Genetic Restoration",
+        "name": "Physical Vigor",
+        "time": "2 months",
+        "essence": "—",
+        "availability": "10R",
+        "cost": "250,000¥",
+        "page": "88",
+        "book": "Aug"
+    },
+    {   
+        "category": "Genetic Restoration",
+        "name": "Maintenance Session",
+        "time": "1 month",
+        "essence": "—",
+        "availability": "—",
+        "cost": "50,000¥",
+        "page": "88",
+        "book": "Aug"
+    },
+    {   
+        "category": "Genetic Restoration",
+        "name": "Augmented Healing",
+        "time": "1 week-2 months",
+        "essence": "—",
+        "availability": "8",
+        "cost": "15,000¥/week",
+        "page": "88",
+        "book": "Aug"
+    },
+    {   
+        "category": "Genetic Restoration",
+        "name": "Cellular Repair",
+        "time": "1 week-2 months",
+        "essence": "—",
+        "availability": "8",
+        "cost": "15,000¥/week",
+        "page": "88",
+        "book": "Aug"
+    },
+    {   
+        "category": "Genetic Restoration",
+        "name": "Corrective Therapies",
+        "time": "1 week",
+        "essence": "—",
+        "availability": "4",
+        "cost": "15,000¥",
+        "page": "88",
+        "book": "Aug"
+    },
+    {   
+        "category": "Genetic Restoration",
+        "name": "Revitalization",
+        "time": "0.1 Essence per month",
+        "essence": "—",
+        "availability": "12",
+        "cost": "75,000¥ + 20,000¥/month",
+        "page": "88",
+        "book": "Aug"
+    },
+    {   
+        "category": "Phenotype Adjustments",
+        "name": "Genewipe",
+        "time": "2 months",
+        "essence": "0.2",
+        "availability": "16F",
+        "cost": "45,000¥",
+        "page": "89",
+        "book": "Aug"
+    },
+    {   
+        "category": "Phenotype Adjustments",
+        "name": "Masque",
+        "time": "2-3 weeks",
+        "essence": "0.1",
+        "availability": "10F",
+        "cost": "25,000¥",
+        "page": "89",
+        "book": "Aug"
+    },
+    {   
+        "category": "Phenotype Adjustments",
+        "name": "Reprint",
+        "time": "1 month",
+        "essence": "0.1",
+        "availability": "12F",
+        "cost": "30,000¥",
+        "page": "89",
+        "book": "Aug"
+    },
+    {   
+        "category": "Phenotype Adjustments",
+        "name": "Shuffle",
+        "time": "1 month",
+        "essence": "0.2",
+        "availability": "12F",
+        "cost": "30,000¥",
+        "page": "89",
+        "book": "Aug"
+    },
+    {   
+        "category": "Phenotype Adjustments",
+        "name": "Genetic Optimization",
+        "time": "2 months",
+        "essence": "0.2",
+        "availability": "10",
+        "cost": "45,000¥",
+        "page": "89",
+        "book": "Aug"
+    },
+    {   
+        "category": "Phenotype Adjustments",
+        "name": "Phenotypic Alteration",
+        "time": "2-6 weeks",
+        "essence": "0.1-0.2+",
+        "availability": "8",
+        "cost": "40,000¥+",
+        "page": "89",
+        "book": "Aug"
+    },
+    {   
+        "category": "Phenotype Adjustments",
+        "name": "Ethnicity Alteration",
+        "time": "4 weeks",
+        "essence": "0.2",
+        "availability": "8",
+        "cost": "40,000¥",
+        "page": "89",
+        "book": "Aug"
+    },
+    {   
+        "category": "Phenotype Adjustments",
+        "name": "Print Removal",
+        "time": "2 weeks",
+        "essence": "0.1",
+        "availability": "8F",
+        "cost": "25,000¥",
+        "page": "89",
+        "book": "Aug"
+    },
+    {   
+        "category": "Phenotype Adjustments",
+        "name": "Metaposeur",
+        "time": "4 weeks",
+        "essence": "0.1",
+        "availability": "8",
+        "cost": "40,000¥",
+        "page": "89",
+        "book": "Aug"
+    },
+    {   
+        "category": "Transgenics",
+        "name": "Adapsin",
+        "time": "1 month",
+        "essence": "0.2",
+        "availability": "16",
+        "cost": "30,000¥",
+        "page": "90",
+        "book": "Aug"
+    },
+    {   
+        "category": "Transgenics",
+        "name": "Daredrenaline",
+        "time": "2 weeks",
+        "essence": "0.1",
+        "availability": "6",
+        "cost": "25,000¥",
+        "page": "90",
+        "book": "Aug"
+    },
+    {   
+        "category": "Transgenics",
+        "name": "Double Elastin",
+        "time": "2 weeks",
+        "essence": "0.2",
+        "availability": "8",
+        "cost": "12,000¥",
+        "page": "90",
+        "book": "Aug"
+    },
+    {   
+        "category": "Transgenics",
+        "name": "Dynomitan",
+        "time": "1 month",
+        "essence": "0.2",
+        "availability": "8",
+        "cost": "25,000¥",
+        "page": "90",
+        "book": "Aug"
+    },
+    {   
+        "category": "Transgenics",
+        "name": "Hyper-Glucagon",
+        "time": "2 weeks",
+        "essence": "0.1",
+        "availability": "6",
+        "cost": "20,000¥",
+        "page": "90",
+        "book": "Aug"
+    },
+    {   
+        "category": "Transgenics",
+        "name": "Magnesense",
+        "time": "2 weeks",
+        "essence": "0.1",
+        "availability": "6",
+        "cost": "20,000¥",
+        "page": "90",
+        "book": "Aug"
+    },
+    {   
+        "category": "Transgenics",
+        "name": "Neo-EPO",
+        "time": "2 weeks",
+        "essence": "0.2",
+        "availability": "6",
+        "cost": "25,000¥",
+        "page": "91",
+        "book": "Aug"
+    },
+    {   
+        "category": "Transgenics",
+        "name": "PuSHeD",
+        "time": "1 month",
+        "essence": "0.1",
+        "availability": "8",
+        "cost": "15,000¥",
+        "page": "91",
+        "book": "Aug"
+    },
+    {   
+        "category": "Transgenics",
+        "name": "Qualia",
+        "time": "1 month",
+        "essence": "0.4",
+        "availability": "8",
+        "cost": "25,000¥",
+        "page": "91",
+        "book": "Aug"
+    },
+    {   
+        "category": "Transgenics",
+        "name": "Reakt",
+        "time": "1 month",
+        "essence": "0.4",
+        "availability": "10",
+        "cost": "30,000¥",
+        "page": "91",
+        "book": "Aug"
+    },
+    {   
+        "category": "Transgenics",
+        "name": "Synch",
+        "time": "1 month",
+        "essence": "0.3",
+        "availability": "8",
+        "cost": "30,000¥",
+        "page": "91",
+        "book": "Aug"
+    },
+    {   
+        "category": "Transgenics",
+        "name": "Vasocon",
+        "time": "2 weeks",
+        "essence": "0.1",
+        "availability": "6",
+        "cost": "25,000¥",
+        "page": "91",
+        "book": "Aug"
+    },
+    {   
+        "category": "Transgenics",
+        "name": "Vegsin",
+        "time": "2 weeks",
+        "essence": "0.1",
+        "availability": "6",
+        "cost": "15,000¥",
+        "page": "91",
+        "book": "Aug"
+    },
+    {   
+        "category": "Transgenics",
+        "name": "Cold Adaptation",
+        "time": "3 months",
+        "essence": "0.5",
+        "availability": "6",
+        "cost": "40,000¥",
+        "page": "91",
+        "book": "Aug"
+    },
+    {   
+        "category": "Transgenics",
+        "name": "Heat Adaptation",
+        "time": "3 months",
+        "essence": "0.5",
+        "availability": "5",
+        "cost": "40,000¥",
+        "page": "91",
+        "book": "Aug"
+    },
+    {   
+        "category": "Transgenics",
+        "name": "Low Oxygen Tolerance",
+        "time": "3 months",
+        "essence": "0.5",
+        "availability": "4",
+        "cost": "35,000¥",
+        "page": "91",
+        "book": "Aug"
+    },
+    {   
+        "category": "Transgenics",
+        "name": "Microgravity Adaptation",
+        "time": "3 months",
+        "essence": "0.5",
+        "availability": "4",
+        "cost": "30,000¥",
+        "page": "92",
+        "book": "Aug"
+    },
+    {   
+        "category": "Transgenics",
+        "name": "Pollution Tolerance",
+        "time": "3 months",
+        "essence": "0.3",
+        "availability": "5",
+        "cost": "35,000¥",
+        "page": "92",
+        "book": "Aug"
+    },
+    {   
+        "category": "Transgenics",
+        "name": "Radiation Tolerance",
+        "time": "3 months",
+        "essence": "0.5",
+        "availability": "6",
+        "cost": "35,000¥",
+        "page": "92",
+        "book": "Aug"
+    },
+    {   
+        "category": "Transgenics",
+        "name": "Basic Immunity",
+        "time": "3 weeks",
+        "essence": "0.1",
+        "availability": "4",
+        "cost": "20,000¥",
+        "page": "93",
+        "book": "Aug"
+    },
+    {   
+        "category": "Transgenics",
+        "name": "Allergen Immunization",
+        "time": "1 week",
+        "essence": "0.1",
+        "availability": "4",
+        "cost": "5,000¥ x Allergy Value (BP)",
+        "page": "93",
+        "book": "Aug"
+    },
+    {   
+        "category": "Transgenics",
+        "name": "Neurotoxin Immunization",
+        "time": "1 month",
+        "essence": "0.2",
+        "availability": "8R",
+        "cost": "30,000¥",
+        "page": "93",
+        "book": "Aug"
+    },
+    {   
+        "category": "Transgenics",
+        "name": "Soft-Nanite Immunization",
+        "time": "3 weeks",
+        "essence": "0.1",
+        "availability": "8",
+        "cost": "25,000¥",
+        "page": "93",
+        "book": "Aug"
+    },
+    {   
+        "category": "Transgenics",
+        "name": "Transgenic Alteration",
+        "time": "1-3 month",
+        "essence": "variable",
+        "availability": "10R",
+        "cost": "40,000+¥",
+        "page": "93",
+        "book": "Aug"
+    },
+    {   
+        "category": "Transgenics",
+        "name": "Alien Look",
+        "time": "1-3 months",
+        "essence": "0.2",
+        "availability": "10R",
+        "cost": "40,000¥",
+        "page": "93",
+        "book": "Aug"
+    },
+    {   
+        "category": "Transgenics",
+        "name": "Animal Features",
+        "time": "1-3 months",
+        "essence": "0.3",
+        "availability": "10R",
+        "cost": "45,000+¥",
+        "page": "93",
+        "book": "Aug"
+    }
+]

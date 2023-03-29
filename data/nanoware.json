@@ -1,0 +1,154 @@
+[
+    {
+        "name": "Anti-Rad (Rating 1-6)",
+        "type": "Hard",
+        "availability": "10",
+        "cost": "Rating x 1,500¥",
+        "page": "108",
+        "book": "Aug"
+    },
+    {
+        "name": "Carcerand Plus (Rating 1-6)",
+        "type": "Soft/Hard",
+        "availability": "6",
+        "cost": "Rating x 2,500¥ (+drug)",
+        "page": "108",
+        "book": "Aug"
+    },
+    {
+        "name": "Control Rig Booster (Rating 1-3)",
+        "type": "Hard",
+        "availability": "8",
+        "cost": "Rating x 5,000¥",
+        "page": "108",
+        "book": "Aug"
+    },
+    {
+        "name": "Implant Medics (rating 1-6)",
+        "type": "Soft/Hard",
+        "availability": "6",
+        "cost": "5% of implant cost",
+        "page": "108",
+        "book": "Aug"
+    },
+    {
+        "name": "Nantidotes (Rating 1-6)",
+        "type": "Hard/Soft",
+        "availability": "8",
+        "cost": "Rating x 1,000¥",
+        "page": "108",
+        "book": "Aug"
+    },
+    {
+        "name": "Universal Nantidotes (Rating 1-9)",
+        "type": "Hard/Soft",
+        "availability": "12",
+        "cost": "Rating x 2,500¥",
+        "page": "109",
+        "book": "Aug"
+    },
+    {
+        "name": "Nanite Hunters Single System (Rating 1-6)",
+        "type": "Hard",
+        "availability": "10R",
+        "cost": "Rating x 1,000¥",
+        "page": "109",
+        "book": "Aug"
+    },
+    {
+        "name": "Nanite Hunters Universal (Rating 1-6)",
+        "type": "Hard",
+        "availability": "16R",
+        "cost": "Rating x 2,500¥",
+        "page": "109",
+        "book": "Aug"
+    },
+    {
+        "name": "Nanosymbiotes (Rating 1-3)",
+        "type": "Soft",
+        "availability": "12",
+        "cost": "Rating x 5,000¥",
+        "page": "109",
+        "book": "Aug"
+    },
+    {
+        "name": "Nanotattoos (Rating 1-3)",
+        "type": "Hard",
+        "availability": "8",
+        "cost": "Rating x 250¥ (per area)",
+        "page": "109",
+        "book": "Aug"
+    },
+    {
+        "name": "Learning Stimulus (Rating 1-3)",
+        "type": "Soft",
+        "availability": "8",
+        "cost": "Rating x 4,000¥",
+        "page": "110",
+        "book": "Aug"
+    },
+    {
+        "name": "Limbic (Rating 1-3)",
+        "type": "Soft",
+        "availability": "10",
+        "cost": "Rating x 5,000¥",
+        "page": "110",
+        "book": "Aug"
+    },
+    {
+        "name": "Neocortical (Rating 1-3)",
+        "type": "Soft",
+        "availability": "10",
+        "cost": "Rating x 5,000¥",
+        "page": "110",
+        "book": "Aug"
+    },
+    {
+        "name": "Recall (Rating 1-3)",
+        "type": "Soft",
+        "availability": "6",
+        "cost": "Rating x 2,500¥",
+        "page": "110",
+        "book": "Aug"
+    },
+    {
+        "name": "O-Cells (Rating 1-9)",
+        "type": "Soft",
+        "availability": "8",
+        "cost": "Rating x 2,500¥",
+        "page": "110",
+        "book": "Aug"
+    },
+    {
+        "name": "Oxyrush (Rating 1-5)",
+        "type": "Hard/Soft",
+        "availability": "8",
+        "cost": "Rating x 1,000¥",
+        "page": "111",
+        "book": "Aug"
+    },
+    {
+        "name": "Markers",
+        "type": "Soft/Hard",
+        "availability": "8",
+        "cost": "Rating x 500¥",
+        "page": "111",
+        "book": "Aug"
+    },
+    {
+        "name": "RFID Markers",
+        "type": "Hard",
+        "availability": "8",
+        "cost": "Rating x 750¥",
+        "page": "111",
+        "book": "Aug"
+    },
+    {
+        "name": "Trauma Control System (Rating 1-6)",
+        "type": "Hard",
+        "availability": "8",
+        "cost": "Rating x 2,000¥",
+        "page": "111",
+        "book": "Aug"
+    }
+]

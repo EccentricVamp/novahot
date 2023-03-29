@@ -1,0 +1,142 @@
+[
+    {
+        "type": "cyberware",
+        "category": "Lone Star SWAT",
+        "name": "Lone Star SWAT (standard)",
+        "essence": "2.52",
+        "availability": "12F",
+        "cost": "16,875¥",
+        "page": "48",
+        "book": ""
+    },
+    {
+        "type": "cyberware",
+        "category": "Lone Star SWAT",
+        "name": "Lone Star SWAT Watchman Version (alphaware)",
+        "essence": "1.96",
+        "availability": "12F",
+        "cost": "33,750¥",
+        "page": "48",
+        "book": ""
+    },
+    {
+        "type": "cyberware",
+        "category": "Shiawase ExecutiveSuite Line",
+        "name": "Silverline (alphaware)",
+        "essence": "0.74",
+        "availability": "11",
+        "cost": "47,700¥",
+        "page": "48",
+        "book": ""
+    },
+    {
+        "type": "cyberware",
+        "category": "Shiawase ExecutiveSuite Line",
+        "name": "Goldline (betaware)",
+        "essence": "0.63",
+        "availability": "14",
+        "cost": "95,400¥",
+        "page": "48",
+        "book": ""
+    },
+    {
+        "type": "cyberware",
+        "category": "S-K Cyberlogician",
+        "name": "Standard Civilian Version (alphaware)",
+        "essence": "1.93",
+        "availability": "16F",
+        "cost": "186,480¥",
+        "page": "49",
+        "book": ""
+    },
+    {
+        "type": "cyberware",
+        "category": "S-K Cyberlogician",
+        "name": "Deluxe Civilian Version (betaware)",
+        "essence": "1.65",
+        "availability": "19F",
+        "cost": "372,960¥",
+        "page": "49",
+        "book": ""
+    },
+    {
+        "type": "cyberware",
+        "category": "S-K Cyberlogician",
+        "name": "Standard Military Version (alphaware)",
+        "essence": "2.42",
+        "availability": "22F",
+        "cost": "305,730¥",
+        "page": "49",
+        "book": ""
+    },
+    {
+        "type": "cyberware",
+        "category": "S-K Cyberlogician",
+        "name": "Deluxe Military Version (betaware)",
+        "essence": "2.07",
+        "availability": "25F",
+        "cost": "611,460¥",
+        "page": "49",
+        "book": ""
+    },
+    {
+        "type": "cyberware",
+        "category": "Urban Kshatriya",
+        "name": "Urban Kshatriya (standard)",
+        "essence": "2.43",
+        "availability": "15F",
+        "cost": "26,415¥",
+        "page": "49",
+        "book": ""
+    },
+    {
+        "type": "cyberware",
+        "category": "Urban Kshatriya",
+        "name": "Urban Kshatriya Alpha Version (alphaware)",
+        "essence": "1.89",
+        "availability": "15F",
+        "cost": "52,830¥",
+        "page": "49",
+        "book": ""
+    },
+    {
+        "type": "cyberware",
+        "category": "Urban Kshatriya",
+        "name": "Urban Kshatriya Beta Version (betaware)",
+        "essence": "1.62",
+        "availability": "18F",
+        "cost": "105,660¥",
+        "page": "49",
+        "book": ""
+    },
+    {
+        "type": "cyberware",
+        "category": "Zeiss SenseSation",
+        "name": "Basic Edition (standard)",
+        "essence": "1.35",
+        "availability": "12",
+        "cost": "24,750¥",
+        "page": "49",
+        "book": ""
+    },
+    {
+        "type": "cyberware",
+        "category": "Zeiss SenseSation",
+        "name": "Livecaster Edition (alphaware)",
+        "essence": "1.05",
+        "availability": "12",
+        "cost": "49,500¥",
+        "page": "49",
+        "book": ""
+    },
+    {
+        "type": "cyberware",
+        "category": "Zeiss SenseSation",
+        "name": "Executive Edition (betaware)",
+        "essence": "0.9",
+        "availability": "15",
+        "cost": "99,000¥",
+        "page": "49",
+        "book": ""
+    }
+]
