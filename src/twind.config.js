@@ -6,4 +6,5 @@ import presetTailwindForms from '@twind/preset-tailwind-forms'
 export const config = defineConfig({
   presets: [presetAutoprefix(), presetTailwind(), presetTailwindForms()],
   darkColor: autoDarkColor,
+  hash: false
 })

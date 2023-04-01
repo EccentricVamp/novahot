@@ -30,6 +30,7 @@ Augmentation Suite:
 ```regex
 ^(?<name>.+) (?<essence>—|(?:Rating x )?[\d\.]+) (?<availability>—|\(?(?:Rating x )?[\d–]+\)?[FR]?) (?<cost>[\d,]+¥|.+) p. (?<page>\d*)(?<book>, \w+)?
 ```
+```
 {\n    "type": "",\n    "category": "",\n    "name": "$name",\n    "essence": "$essence",\n    "availability": "$availability",\n    "cost": "$cost",\n    "page": "$page",\n    "book": "$book"\n},
 ```
 Genetech:
