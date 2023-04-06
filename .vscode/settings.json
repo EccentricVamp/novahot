@@ -6,5 +6,9 @@
     "editor.suggest.showStatusBar": true,
     "editor.quickSuggestions": {
       "strings": true
+    },
+    "explorer.fileNesting.enabled": true,
+    "explorer.fileNesting.patterns": {
+      "*.html": "${capture}.js"
     }
 }
