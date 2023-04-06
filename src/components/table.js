@@ -10,7 +10,8 @@ export function table(rows, exclude) {
             if(exclude.includes(key)) continue
             
             const tableDatum = document.createElement('td')
-            tableDatum.innerText = row[key]
+            tableDatum.textContent = row[key]
+            tableDatum.dataset['key'] = key
 
             tableRow.appendChild(tableDatum)
         }
