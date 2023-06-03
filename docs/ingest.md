@@ -44,3 +44,24 @@ Nanoware:
 ```
 {\n    "name": "$name",\n    "type": "$type",\n    "availability": "$availability",\n    "cost": "$cost",\n    "page": "$page",\n    "book": "$book"\n},
 ```
+Melee Weapons:
+```regex
+^(?<name>.+) (?<reach>-|—|\d+) (?<damage>(?:\([^\)]+\)|\d+)(?:P|S|P or S)(?:\(e\))?|—) (?<penetration>—|[–+]?\d+|–half) (?<availability>—|\d+)(?<legality>[RF])? (?<cost>[\d,]+)¥ (?<page>\d+)(?<book>, .+)?
+```
+```
+{"type":"melee","category":"unarmed","name":"$name","reach":"$reach","damage":"$damage","penetration":"$penetration","availability":"$availability","legality":"$legality","cost":"$cost","page":"$page","book":"$book"},
+```
+Throwing Weapons:
+```regex
+^(?<name>.+) (?<damage>(?:\([^\)]+\)|\d+)(?:P|S|P or S)(?:\(e\))?|—) (?<penetration>—|[–+]?\d+|–half) (?<availability>—|\d+)(?<legality>[RF])? (?<cost>(?:Rating x )?[\d,]+)¥ (?<page>\d+)(?<book>, .+)?
+```
+```
+{"type":"melee","category":"throwing","name":"$name","damage":"$damage","penetration":"$penetration","availability":"$availability","legality":"$legality","cost":"$cost","page":"$page","book":"$book"},
+```
+Ranged Weapons:
+```regex
+^(?<name>.+) (?<damage>(?:\([^\)]+\)|\d+)(?:P|S|P or S)(?:\(e\))?|Grenade|As Mortar Round|Rocket|Missile|Mortar|—) (?<penetration>[–+]?\d+|–half|Rocket|Missile|Grenade|Mortar|—) (?<mode>[\w\/]+\*?|—) (?<recoil>\(?\d+\)?(?: ?\(\d+\))?|—) (?<ammo>\d+|Special|External source|—)(?<reload> ?\(\w+\)(?: or external source| or \d+ \(belt\)| or belt| \+ Energy)?)? (?<availability>\d+|—)(?<legality>[RF])? (?<cost>(?:Rating x )?[\d,]+)¥(?<page> \d+)?(?<book>, .+)?
+```
+```
+{"type":"ranged","category":"missile launchers","name":"$name","damage":"$damage","penetration":"$penetration","mode":"$mode","recoil":"$recoil","ammo":"$ammo","reload":"$reload","availability":"$availability","legality":"$legality","cost":"$cost","page":"$page","book":"$book"},
+```
