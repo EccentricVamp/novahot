@@ -17,8 +17,8 @@ titleAnchor.href = `${URL_ROOT}/index.html`
 titleAnchor.textContent = TITLE
 title.appendChild(titleAnchor)
 
-const rollAnchor = document.createElement('a')
-rollAnchor.href = `${URL_ROOT}/roll.html`
-rollAnchor.className = 'text-lg mx-3'
-rollAnchor.textContent = 'Roll'
-container.appendChild(rollAnchor)
+const spellsAnchor = document.createElement('a')
+spellsAnchor.href = `${URL_ROOT}/spells.html`
+spellsAnchor.className = 'text-lg mx-3'
+spellsAnchor.textContent = 'Spells'
+container.appendChild(spellsAnchor)
